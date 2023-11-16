@@ -1,6 +1,6 @@
 /*-------config start-------*/
 var _wip = 'yylx.panguh5.com';  
-var _port = '1714';   
+var _port = '1767';   
 /*---------config end---------*/
 
 var BaseUrl = 'http://' + _wip+':'+_port;
